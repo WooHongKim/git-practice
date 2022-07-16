@@ -1,6 +1,10 @@
 team: Pumas
 
+<<<<<<< HEAD
 manager: whkim
+=======
+manager: sypark
+>>>>>>> e72cb32 (edit syp)
 
 members:
 - Ezra
